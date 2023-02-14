@@ -1,0 +1,3 @@
+* Dmenu-leandrus
+
+Configuración personal de Dmenu ([[http://tools.suckless.org/dmenu/][suckless]]).
