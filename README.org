@@ -1,3 +1,6 @@
 * Dmenu-leandrus
 
 Configuración personal de Dmenu ([[http://tools.suckless.org/dmenu/][suckless]]).
+
+#+ATTR_HTML: :width 70%
+[[file:dmenu.png]]
